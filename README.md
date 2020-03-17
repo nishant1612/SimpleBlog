@@ -1,5 +1,5 @@
 
 # Simple Blog 
 # Using html and Css
-# learn for sololearn
+# learn form sololearn
 # https://www.sololearn.com/ 
